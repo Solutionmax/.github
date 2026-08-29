@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://pharos.solutionmax.net"><img src="profile/pharos-banner.png" alt="Pharos — your status page is green. Your server is not." width="100%"></a>
+  <a href="https://pharos.solutionmax.net"><img src="https://raw.githubusercontent.com/Solutionmax/.github/main/profile/pharos-banner.png" alt="Pharos — your status page is green. Your server is not." width="100%"></a>
 </p>
 
 # SolutionMAX
