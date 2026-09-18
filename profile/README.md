@@ -1,17 +1,26 @@
-<p align="center"><strong>SOLUTIONMAX</strong></p>
-<h1 align="center">Your infrastructure. Your control.</h1>
-<p align="center">Share files. Keep customers informed. Manage server access.</p>
+<p align="center">
+  <a href="https://solutionmax.net"><img src="https://raw.githubusercontent.com/Solutionmax/.github/main/profile/assets/solutionmax.svg" alt="SolutionMAX. Your infrastructure. Your control. Amfora for file sharing, Pharos for service status and Portalis for server access." width="100%"></a>
+</p>
+
 <p align="center">
   <a href="https://amfora.solutionmax.net">Amfora</a> ·
   <a href="https://pharos.solutionmax.net">Pharos</a> ·
-  <a href="https://portalis.sh">Portalis</a>
+  <a href="https://portalis.sh">Portalis</a> ·
+  <a href="https://buymeacoffee.com/solutionmax">Support our work</a>
 </p>
 
 We build practical software for hosting providers, agencies and small teams who want to run their own tools. From a file handoff to a service outage or a server session, our products help you manage everyday work on infrastructure you control.
 
 Based in Spain, working with customers in the Netherlands, Belgium and Spain.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Solutionmax/.github/main/profile/assets/products.gif" alt="Animated product preview showing Amfora file sharing, Pharos service status and Portalis server access." width="100%">
+</p>
+<p align="center"><sub>Interface previews with demonstration data. Full screenshots below.</sub></p>
+
 ## Amfora
+
+<a href="https://raw.githubusercontent.com/Solutionmax/.github/main/profile/assets/amfora.webp"><img src="https://raw.githubusercontent.com/Solutionmax/.github/main/profile/assets/amfora-preview.png" alt="Amfora interface preview. Click to view the full screenshot." width="100%"></a>
 
 **File sharing with a place for everything.**
 
@@ -23,6 +32,8 @@ Run Amfora with Docker, use bundled storage or connect an S3 compatible provider
 
 ## Pharos
 
+<a href="https://raw.githubusercontent.com/Solutionmax/.github/main/profile/assets/pharos.webp"><img src="https://raw.githubusercontent.com/Solutionmax/.github/main/profile/assets/pharos-preview.png" alt="Pharos interface preview. Click to view the full screenshot." width="100%"></a>
+
 **A status page that does the checking for you.**
 
 Monitor HTTP endpoints, TCP ports and scheduled jobs through heartbeat checks. Pharos opens incidents when checks fail and closes them when services recover, keeping customers informed through a public status page and notifications.
@@ -32,6 +43,8 @@ Run it on compatible PHP hosting, including cPanel, DirectAdmin and Plesk, or de
 [Explore Pharos](https://pharos.solutionmax.net) · [Documentation](https://pharos.solutionmax.net/docs/) · [Source code](https://github.com/Solutionmax/pharos)
 
 ## Portalis
+
+<a href="https://raw.githubusercontent.com/Solutionmax/.github/main/profile/assets/portalis.webp"><img src="https://raw.githubusercontent.com/Solutionmax/.github/main/profile/assets/portalis-preview.png" alt="Portalis interface preview. Click to view the full screenshot." width="100%"></a>
 
 **One gateway to your servers. A clear record of access.**
 
@@ -50,3 +63,9 @@ Hosted on your own infrastructure. Preparing for launch.
 **Talk to the people building it.** Have a question, an idea or a deployment to discuss? Get in touch with SolutionMAX.
 
 [Visit our website](https://solutionmax.net) · [Email us](mailto:mail@solutionmax.net)
+
+## Support the work
+
+If these tools make your day easier, help support their development. Every coffee is appreciated.
+
+<a href="https://buymeacoffee.com/solutionmax"><img src="https://raw.githubusercontent.com/Solutionmax/.github/main/profile/assets/coffee.svg" alt="Buy me a coffee. Support SolutionMAX." width="240" height="56"></a>
