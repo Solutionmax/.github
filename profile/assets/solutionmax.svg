@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">SolutionMAX. Your infrastructure. Your control.</title>
+<desc id="desc">Amfora for file sharing. Pharos for service status. Portalis for server access.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b172b"/><stop offset="1" stop-color="#142d49"/></linearGradient></defs>
+<rect width="1200" height="400" rx="18" fill="url(#bg)"/>
+<path d="M928 0V400M1020 0V400M1112 0V400M872 80H1200M872 172H1200M872 264H1200" fill="none" stroke="#26425c" stroke-opacity=".45"/>
+<circle cx="1020" cy="172" r="6" fill="#83d3ed"/>
+<circle cx="1112" cy="264" r="4" fill="#63cbae"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="56" y="56" font-size="18" font-weight="700" letter-spacing="4" fill="#d5e3ef">SOLUTIONMAX</text>
+<text x="56" y="139" font-size="53" font-weight="700" letter-spacing="-1.6" fill="#fff">Your infrastructure.</text>
+<text x="56" y="200" font-size="53" font-weight="700" letter-spacing="-1.6" fill="#93dcf4">Your control.</text>
+<text x="58" y="245" font-size="20" fill="#c4d1df">Practical software. Built to run on your terms.</text>
+<path d="M56 287H1144" stroke="#36516a"/>
+<circle cx="63" cy="325" r="5" fill="#7fc4ff"/>
+<text x="80" y="332" font-size="23" font-weight="700" fill="#fff">Amfora</text>
+<text x="80" y="361" font-size="17" fill="#bbcbdc">File sharing</text>
+<circle cx="449" cy="325" r="5" fill="#65d9bc"/>
+<text x="466" y="332" font-size="23" font-weight="700" fill="#fff">Pharos</text>
+<text x="466" y="361" font-size="17" fill="#bbcbdc">Service status</text>
+<circle cx="835" cy="325" r="5" fill="#c2b1ff"/>
+<text x="852" y="332" font-size="23" font-weight="700" fill="#fff">Portalis</text>
+<text x="852" y="361" font-size="17" fill="#bbcbdc">Server access</text>
+</g></svg>
